@@ -1,0 +1,18 @@
+#main {
+  display: flex;
+  width: 90vh;
+}
+button {
+  margin-bottom: 1%;
+  padding: 5px;
+}
+.divVert {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+}
+.square {
+  background-color: coral;
+  aspect-ratio: 1/1;
+}
